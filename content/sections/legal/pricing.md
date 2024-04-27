@@ -1,14 +1,13 @@
 ---
 sectionId: pricing
 ---
-
 #### Initial Consultation & First Session: $150
 
 * Discussion with parent/guardian
 * Non-standardized assessment of child’s strength and needs 
 * Debrief of initial impressions 
 * Therapy schedule and take-home recommendation debrief
-* Length of session will be determined by age of child and participation of child. 
+* Length of the session will be determined by the age of the child and participation of the child. 
 (Will not exceed 60 minutes) 
 
 
@@ -17,7 +16,7 @@ sectionId: pricing
 #### Individual Therapy Session (30 minutes): $100
 
 * Discussion on previous take-home suggestions 
-* 25-minute direct therapy, may include parent coaching 
+* 25-minute direct therapy, which may include parent coaching 
 * Debrief of session and take-home recommendations 
 
 ---
@@ -33,7 +32,7 @@ sectionId: pricing
 #### Individual Therapy Session (60 minutes): $150
 
 * Discussion on previous take-home suggestions 
-* 50-minute direct therapy, may include parent coaching 
+* 50-minute direct therapy, which may include parent coaching 
 * Debrief of session and take-home recommendations 
 
 ---
@@ -48,6 +47,6 @@ sectionId: pricing
 
 #### Other Services: Please Contact for Pricing
 
-* Writen Assessment
+* Written Assessment
 * Progress Reports
 * Discharge Summary Reports 

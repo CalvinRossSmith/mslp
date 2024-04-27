@@ -1,15 +1,14 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://www.meaghanslp.ca/",
     "title": "Meaghan Catton SLP",
     "titleTemplate": "%s · SLP",
-    "description": "Meaghan Catton is a speech-language pathologist in the Northumberland, Cobourg, and Port Hope area.",
+    "description": "Meaghan Catton is a speech-language pathologist (SLP) offering therapy in the Northumberland, Cobourg, and Port Hope area.",
     "author": "Meaghan Catton",
     "avatar": "../content/images/meaghanheadshot.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Meaghan Catton is a speech-language pathologist (SLP) in the Northumberland, Cobourg, and Port Hope area.",
     "social": {
-      "behance": "https://behance.com",
       "facebook": "https://facebook.com",
       "instagram": "https://instagram.com",
       "linkedin": "https://www.linkedin.com/",
@@ -25,7 +24,7 @@
         { "label": "Pricing", "url": "/pricing" }
       ],
       "ctaButton": {
-        "openNewTab": true,
+        "openNewTab": false,
         "label": "Inquire Now",
         "url": "/#contact"
       },

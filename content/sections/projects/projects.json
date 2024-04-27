@@ -3,7 +3,7 @@
     {
       "visible": true,
       "title": "Initial Consultation",
-      "description": "Discussion with parent/guardian about childs speech and if therapy is required. Initial overview of child's communication skills and areas of concern.",
+      "description": "Discussion with parent/guardian about child's speech and if therapy is required. Initial overview of child's communication skills and areas of concern",
       "tags": ["Length: 60 minutes"],
       "image": {
         "src": "../../images/initial-assessment.jpeg",
@@ -16,7 +16,7 @@
       "visible": true,
       "category": "Multiple Lengths Offered",
       "title": "Individual Therapy",
-      "description": "Therapy will be tailored to the child's individual needs and goals. Length of session will varries based on need, as well as the child's age and attention span. ",
+      "description": "Therapy will be tailored to the child's individual needs and goals. The length of the session will vary based on need, as well as the child's age and attention span.",
       "tags": ["Lengths Offered: 30, 45, 60 minutes"],
       "image": {
         "src": "../../images/individual-speech-therapy.jpeg",
@@ -28,7 +28,7 @@
     {
       "visible": true,
       "title": "Formal Language Assessment",
-      "description": "Standardized assessment of child’s communication skills including oral language, speech, literacy, and social communication",
+      "description": "Standardized assessment of a child’s communication skills including oral language, speech, literacy, and social communication",
       "tags": ["Formal Written Report", "Family Case Conference"],
       "image": {
         "src": "../../images/penonclipboard.jpg",
