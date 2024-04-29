@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_portfolio_minimal_theme=self.webpackChunkgatsby_starter_portfolio_minimal_theme||[]).push([[43],{7509:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var r=n(6540),i=n(7871);function l(){return r.createElement(r.Fragment,null,r.createElement(i.G$,{title:"Pricing",useTitleTemplate:!0,noIndex:!1}),r.createElement(i.YW,null,r.createElement(i.v3,{sectionId:"pricing",heading:"Pricing"})))}}}]);
+//# sourceMappingURL=component---src-pages-pricing-js-36aa2f0b8091b607c662.js.map
