@@ -3,10 +3,10 @@
     {
       "visible": true,
       "title": "Initial Consultation",
-      "description": "Discussion with parent/guardian about child's speech and if therapy is required. Initial overview of child's communication skills and areas of concern",
+      "description": "Discussion with parent/guardian and non-standardized assessment of child's speech and language strengths and needs.",
       "tags": ["Length: 60 minutes"],
       "image": {
-        "src": "../../images/initial-assessment.jpeg",
+        "src": "../../images/initial-assessment.png",
         "alt": "Initial Consultation"
       },
       "links": [
@@ -19,7 +19,7 @@
       "description": "Therapy will be tailored to the child's individual needs and goals. The length of the session will vary based on need, as well as the child's age and attention span.",
       "tags": ["Lengths Offered: 30, 45, 60 minutes"],
       "image": {
-        "src": "../../images/individual-speech-therapy.jpeg",
+        "src": "../../images/meaghan-at-table.jpg",
         "alt": "Individual Therapy"
       },
       "links": [

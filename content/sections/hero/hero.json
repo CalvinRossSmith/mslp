@@ -11,12 +11,12 @@
   "title": "I'm Meaghan Catton",
   "subtitle": {
     "prefix": "I'm a licensed SLP based out of the ",
-    "highlight": "Northumberland Region",
+    "highlight": "Northumberland/Clarington Region",
     "suffix": "."
   },
-  "description": "I offer speech and language services to children in the Northumberland Region. I am passionate about helping individuals reach their full potential and I am dedicated to providing the best possible care to my clients.",
+  "description": "I offer speech and language services to children in the Northumberland (Cobourg, Port Hope, Grafton) and Clarington Region. I am passionate about helping individuals reach their full potential and I am dedicated to providing the best possible care to my clients.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Facebook"],
+    "from": ["LinkedIn", "Mail"],
     "showIcons": false
   }
 }
