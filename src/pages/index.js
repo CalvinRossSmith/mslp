@@ -14,7 +14,7 @@ export default function IndexPage() {
   return (
     <>
       <Seo title="Meaghan Catton SLP" />
-      <Page useSplashScreenAnimation>
+      <Page>
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About Meaghan Catton" />
         <ProjectsSection sectionId="services" heading="Overview of Services Offered" />
