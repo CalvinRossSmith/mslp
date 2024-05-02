@@ -21,5 +21,32 @@ module.exports = {
         // }
       },
     },
+    {
+      resolve: 'gatsby-plugin-next-seo',      
+      options: {
+        openGraph: {
+          type: 'website',
+          url: 'https://www.meaghanslp.ca/',
+          site_name: 'Meaghan Catton SLP',
+          title: 'Meaghan Catton SLP',
+          description: 'Meaghan Catton is a speech-language pathologist (SLP) offering therapy in the Northumberland, and Clarington.',
+          locale: 'en_CA',
+        },
+        titleTemplate: '%s | Meaghan Catton SLP',
+        language: 'en',
+        description: 'Meaghan Catton is a speech-language pathologist (SLP) offering therapy in the Northumberland, and Clarington.',
+        canonical: 'https://www.meaghanslp.ca/',
+        metaTags: [
+          {
+            name: 'author',
+            content: 'Meaghan Cattton',
+          },
+          {
+            name: 'description',
+            content: 'Meaghan Catton is a speech-language pathologist (SLP) offering therapy in the Northumberland, and Clarington.',
+          },
+        ],
+      },
+    },
   ],
 };

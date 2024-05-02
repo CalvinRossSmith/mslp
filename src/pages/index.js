@@ -1,19 +1,26 @@
 import React from "react";
 import {
   AboutSection,
-  ArticlesSection,
   ContactSection,
   HeroSection,
-  InterestsSection,
   Page,
   ProjectsSection,
-  Seo,
 } from "gatsby-theme-portfolio-minimal";
+import { GatsbySeo } from 'gatsby-plugin-next-seo';
 
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Meaghan Catton SLP" />
+      <GatsbySeo
+        url='https://www.meaghanslp.ca/'
+        title='Home Page'
+        openGraph={{
+          url: 'https://www.meaghanslp.ca/',
+          title: 'Home Page',
+          images: [],
+          site_name: 'Meaghan Catton SLP',
+        }}
+      />
       <Page>
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About Meaghan Catton" />
