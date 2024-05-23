@@ -5,7 +5,7 @@
   "image": {
   },
   "socialProfiles": {
-    "from": ["Facebook", "Instagram", "LinkedIn", "Mail"],
+    "from": ["Facebook", "LinkedIn", "Mail"],
     "showIcons": true
   }
 }
