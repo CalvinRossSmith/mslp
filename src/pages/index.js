@@ -14,6 +14,7 @@ export default function IndexPage() {
       <GatsbySeo
         url='https://www.meaghanslp.ca/'
         title='Home Page'
+        description='Meaghan Catton is a speech-language pathologist (SLP) offering therapy in the Northumberland, and Clarington.'
         openGraph={{
           url: 'https://www.meaghanslp.ca/',
           title: 'Home Page',

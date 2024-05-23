@@ -8,6 +8,7 @@ export default function PrivacyPage() {
       <GatsbySeo
         url='https://www.meaghanslp.ca/privacy/'
         title='Privacy Policy'
+        description='Meaghan Catton is dedicated to protecting the privacy of her clients. Please read her privacy policy for more information.'
         openGraph={{
           url: 'https://www.meaghanslp.ca/privacy/',
           title: 'Privacy Policy',

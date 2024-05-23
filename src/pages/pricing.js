@@ -8,6 +8,7 @@ export default function ImprintPage() {
       <GatsbySeo
         url='https://www.meaghanslp.ca/pricing/'
         title='Pricing'
+        description='Meaghan Catton offers competitive pricing for her services. Please contact her for more information and inquiries.'
         openGraph={{
           url: 'https://www.meaghanslp.ca/pricing/',
           title: 'Pricing',
