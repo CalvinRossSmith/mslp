@@ -29,6 +29,9 @@ module.exports = {
           url: 'https://www.meaghanslp.ca/',
           site_name: 'Meaghan Catton SLP',
           locale: 'en_CA',
+          title: 'Meaghan Catton SLP',
+          description: 'Meaghan Catton is a speech-language pathologist (SLP) offering therapy in the Northumberland, and Clarington.',
+          image: 'https://www.meaghanslp.ca/icons/icon-512x512.png'
         },
         titleTemplate: '%s | Meaghan Catton SLP',
         language: 'en',
