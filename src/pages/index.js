@@ -14,12 +14,22 @@ export default function IndexPage() {
       <GatsbySeo
         url='https://www.meaghanslp.ca/'
         title='Home Page'
-        description='Meaghan Catton is a speech-language pathologist (SLP) offering therapy in the Northumberland, and Clarington.'
+        description='Meaghan, a Registered SLP in Northumberland, offers comprehensive speech therapy services, including assessments, to children in Cobourg, Port Hope, and nearby areas.'
         openGraph={{
-          url: 'https://www.meaghanslp.ca/',
-          title: 'Home Page',
-          images: [],
+          type: 'website',
+          url: 'https://www.meaghanslp.ca/privacy',
           site_name: 'Meaghan Catton SLP',
+          locale: 'en_CA',
+          title: 'Home Page | Meaghan Catton SLP',
+          description: 'Meaghan, a Registered SLP in Northumberland, offers comprehensive speech therapy services, including assessments, to children in Cobourg, Port Hope, and nearby areas.',
+          images: [
+            {
+              url: 'https://www.meaghanslp.ca/icons/icon-512x512.png',
+              width: 512,
+              height: 512,
+              alt: 'Meaghan Catton SLP',
+            },
+          ]
         }}
       />
       <Page>

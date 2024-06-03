@@ -8,12 +8,22 @@ export default function PrivacyPage() {
       <GatsbySeo
         url='https://www.meaghanslp.ca/privacy/'
         title='Privacy Policy'
-        description='Meaghan Catton is dedicated to protecting the privacy of her clients. Please read her privacy policy for more information.'
+        description='Meaghan, a Registered SLP in Northumberland, prioritizes client privacy while offering comprehensive speech therapy services to children in Cobourg, Port Hope, and nearby areas.'
         openGraph={{
-          url: 'https://www.meaghanslp.ca/privacy/',
-          title: 'Privacy Policy',
-          images: [],
+          type: 'website',
+          url: 'https://www.meaghanslp.ca/privacy',
           site_name: 'Meaghan Catton SLP',
+          locale: 'en_CA',
+          title: 'Privacy Policy | Meaghan Catton SLP',
+          description: 'Meaghan, a Registered SLP in Northumberland, offers comprehensive speech therapy services, including assessments, to children in Cobourg, Port Hope, and nearby areas.',
+          images: [
+              {
+                url: 'https://www.meaghanslp.ca/icons/icon-512x512.png',
+                width: 512,
+                height: 512,
+                alt: 'Meaghan Catton SLP',
+              },
+            ]
         }}
       />
       <Page>

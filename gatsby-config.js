@@ -24,18 +24,9 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-next-seo',      
       options: {
-        openGraph: {
-          type: 'website',
-          url: 'https://www.meaghanslp.ca/',
-          site_name: 'Meaghan Catton SLP',
-          locale: 'en_CA',
-          title: 'Meaghan Catton SLP',
-          description: 'Meaghan Catton is a speech-language pathologist (SLP) offering therapy in the Northumberland, and Clarington.',
-          image: 'https://www.meaghanslp.ca/icons/icon-512x512.png'
-        },
         titleTemplate: '%s | Meaghan Catton SLP',
         language: 'en',
-        description: 'Meaghan Catton is a speech-language pathologist (SLP) offering therapy in the Northumberland, and Clarington.',
+        description: 'Meaghan, a Registered SLP in Northumberland, offers comprehensive speech therapy services, including assessments, to children in Cobourg, Port Hope, and nearby areas.',
         metaTags: [
           {
             name: 'author',
