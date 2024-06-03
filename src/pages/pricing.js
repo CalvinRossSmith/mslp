@@ -8,14 +8,14 @@ export default function ImprintPage() {
       <GatsbySeo
         url='https://www.meaghanslp.ca/pricing/'
         title='Pricing'
-        description='Meaghan, Registered SLP in Northumberland, provides speech therapy to children in Cobourg, Port Hope, and nearby. Competitive pricing available. Contact for details.'
+        description='Meaghan, a Registered SLP in Northumberland, provides speech therapy to children in Cobourg, Port Hope. Competitive pricing available. Contact for details'
         openGraph={{
           type: 'website',
           url: 'https://www.meaghanslp.ca/privacy',
           site_name: 'Meaghan Catton SLP',
           locale: 'en_CA',
           title: 'Pricing | Meaghan Catton SLP',
-          description: 'Meaghan, Registered SLP in Northumberland, provides speech therapy to children in Cobourg, Port Hope, and nearby. Competitive pricing available. Contact for details.',
+          description: 'Meaghan, a Registered SLP in Northumberland, provides speech therapy to children in Cobourg, Port Hope. Competitive pricing available. Contact for details',
           images: [
             {
               url: 'https://www.meaghanslp.ca/icons/icon-512x512.png',
