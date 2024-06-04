@@ -24,7 +24,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-next-seo',      
       options: {
-        titleTemplate: '%s | Meaghan Catton SLP',
+        titleTemplate: '%s | Meaghan SLP | Cobourg | Port Hope | Northumberland',
         language: 'en',
         description: 'Meaghan, a Registered SLP in Northumberland, offers comprehensive speech therapy services, including assessments, to children in Cobourg, Port Hope, and nearby areas.',
         metaTags: [

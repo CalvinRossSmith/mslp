@@ -14,7 +14,7 @@ export default function ImprintPage() {
           url: 'https://www.meaghanslp.ca/privacy',
           site_name: 'Meaghan Catton SLP',
           locale: 'en_CA',
-          title: 'Pricing | Meaghan Catton SLP',
+          title: 'Pricing | Meaghan SLP | Cobourg | Port Hope | Northumberland',
           description: 'Meaghan, a Registered SLP in Northumberland, provides speech therapy to children in Cobourg, Port Hope. Competitive pricing available. Contact for details',
           images: [
             {
