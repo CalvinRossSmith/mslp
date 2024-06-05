@@ -1,5 +1,5 @@
 {
-  "intro": "I'm Meaghan,",
+  "intro": "Hello there!",
   "heroPhoto": {
     "src": "../../images/meaghanheadshot.png",
     "alt": "My Photo"
@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Registered Speech-Language Pathologist based out of Cobourg",
+  "title": "I'm Meaghan a Registered Speech-Language Pathologist based out of Cobourg",
   "subtitle": {
-    "prefix": "I offer speech and language services to children in the Northumberland (Cobourg, Port Hope, Grafton) and Clarington Region.",
+    "prefix": "",
     "highlight": "",
     "suffix": ""
   },
-  "description": " I am passionate about helping individuals reach their full potential and I am dedicated to providing the best possible care to my clients.",
+  "description": "I offer speech and language services to children in the Northumberland (Cobourg, Port Hope, Grafton) and Clarington Region. I am passionate about helping individuals reach their full potential and I am dedicated to providing the best possible care to my clients.",
   "socialProfiles": {
     "from": ["LinkedIn", "Mail"],
     "showIcons": false
